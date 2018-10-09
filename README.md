@@ -25,6 +25,3 @@ Point Browser to my binder for an interactive version: https://mybinder.org/v2/g
 
 ### * Group
 
-
-![Image Title](./path/to/image.pdf){width=120, height=900}
-
